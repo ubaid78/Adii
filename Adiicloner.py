@@ -34,7 +34,7 @@ def keluar():
 
 	
 
-def acak(b):
+def acak(b)
 
     w = 'ahtdzjc'
 
